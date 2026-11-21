@@ -2,7 +2,7 @@
 
 ## 🎮 Repositórios
 
-* **[Brochacho's 3D Skin Pack Maker 🛠️](https://github.com)**<br>
+* **[Brochacho's 3D Skin Pack Maker 🛠️](https://github.com/BrochachoMC/Brochacho-s-3D-Skin-Pack-Maker)**<br>
 
 * **[GTA V 🔫](https://github.com/BrochachoMC/GTA-V)**  
   &nbsp;&nbsp;&nbsp;&nbsp;└── 🌐 **Pages:** [Acessar pages](https://brochachomc.github.io/GTA-V)<br>
