@@ -1,7 +1,5 @@
 # BrochachoMC
 
-Criando mods para Minecraft Bedrock e projetos web.
-
 ## 🎮 Repositórios
 
 * **[Brochacho's 3D Skin Pack Maker 🛠️](https://github.com)**<br>
