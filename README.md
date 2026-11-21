@@ -8,7 +8,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;└── 🌐 **Pages:** [Acessar pages](https://github.io)<br>
 
 * **[GTA VI 🌴](https://github.com/BrochachoMC/GTA-VI)**  
-  &nbsp;&nbsp;&nbsp;&nbsp;└── 🌐 **Pages:** [Acessar pages](https://github.io)
+  &nbsp;&nbsp;&nbsp;&nbsp;└── 🌐 **Pages:** [Acessar pages](https://brochachomc.github.io/GTA-VI/)
 
 ## 📱 Redes sociais
 
