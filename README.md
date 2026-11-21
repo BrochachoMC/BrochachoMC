@@ -7,7 +7,7 @@
 * **[GTA V 🔫](https://github.com)**  
   &nbsp;&nbsp;&nbsp;&nbsp;└── 🌐 **Pages:** [Acessar pages](https://github.io)<br>
 
-* **[GTA VI 🌴](https://github.com)**  
+* **[GTA VI 🌴](https://github.com/BrochachoMC/GTA-VI)**  
   &nbsp;&nbsp;&nbsp;&nbsp;└── 🌐 **Pages:** [Acessar pages](https://github.io)
 
 ## 📱 Redes sociais
