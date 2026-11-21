@@ -12,5 +12,5 @@
 
 ## 📱 Redes sociais
 
-* **ᕷ TikTok:** [@brochachomc](https://tiktok.com)
+* **ᕷ TikTok:** [@brochachomc](https://www.tiktok.com/@brochachomc)
 * **🅾 Instagram** [@brochachomc](https://www.instagram.com/brochachomc/)
